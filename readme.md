@@ -109,6 +109,7 @@ SITUATIONISTS
 Monday
 + Course Intro
 + Questionnaire
++ Richard Serra [Television Delivers People](https://www.youtube.com/watch?v=LvZYwaQlJsg)
 + Screen [Society of the Spectacle](https://www.youtube.com/watch?v=r2YeJpkrTOQ)
 
 Wednesday
@@ -117,7 +118,6 @@ Wednesday
     + [Short Documentary](https://www.youtube.com/watch?v=BjyKJQ-oD5I)
     + [Situationist Posters](https://libcom.org/gallery/paris-68-posters)
   + [Theory of the Derive]()
-  + [Psychogeography - Introduction]()
 + Introduce Project 1
 
 ### Week 02 (2/11 && 2/13)
@@ -127,6 +127,7 @@ SITUATIONISTISM -> CULTURE JAMMING
 Monday
 + Discuss
   + [Martha Rosler - Culture Class: Art, Creativity, Urbanism, Part I](https://www.e-flux.com/journal/21/67676/culture-class-art-creativity-urbanism-part-i/)
+	+ [Psychogeography - Introduction]()
 + Screen [Can Ideology Break Bricks?](https://oberlin.kanopy.com/video/can-dialectics-break-bricks)
   + Alternatively, [color version](https://www.youtube.com/watch?v=6y9Xdf6qa0Y&t=1347s)
 + Negativland
@@ -163,13 +164,13 @@ Wednesday
 
 ### Week 05 (3/4 && 3/6)
 
-EVERYTHING IS POLITICAL / DISOBEDIENT OBJECTS
+DISOBEDIENT OBJECTS / PROTEST AND ART
 
 Monday
-+ Richard Serra [Television Delivers People](https://www.youtube.com/watch?v=LvZYwaQlJsg)
 + [BUFU](http://www.bufubyusforus.com/us-2017/)?
 + Discuss
 	+ [Graeber - On the Phenomenology of Giant Puppets]()
+	+ Disobedient Objects
 
 Wednesday
 + No class! Work day.
