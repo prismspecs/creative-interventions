@@ -8,3 +8,8 @@
 Interventions within the context of studio practice and the gallery space
 + Hans Haacke
 + Dread Scott
++ [Tania Bruguera, Tatlin’s Whisper #5 2008
+](https://www.tate.org.uk/research/publications/performance-at-tate/resources/films-and-videos/tania-bruguera-tate-shots)
+
+Occupy
++ Occupied Wall Street Journal
