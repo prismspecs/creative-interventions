@@ -13,3 +13,9 @@ Interventions within the context of studio practice and the gallery space
 
 Occupy
 + Occupied Wall Street Journal
+
+Prank
++ The Yes Men
+
+Uncategorized
++ eToy War
