@@ -11,9 +11,9 @@
 
 ## Readings for next week
 
-+ [Martha Rosler - Culture Class: Art, Creativity, Urbanism, Part I](https://www.e-flux.com/journal/21/67676/culture-class-art-creativity-urbanism-part-i/)
++ [Martha Rosler - Culture Class: Art, Creativity, Urbanism, Part I](https://www.e-flux.com/journal/21/67676/culture-class-art-creativity-urbanism-part-i/) - Mikaela/Haley
 + [Situationist Lexicon](terms.md)
-+ [Psychogeography - Introduction](../texts/Psychogeography-Introduction.pdf)
++ [Psychogeography - Introduction](../texts/Psychogeography-Introduction.pdf) - Ko
 
 ## Project 1
 
