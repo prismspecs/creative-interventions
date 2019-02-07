@@ -24,5 +24,6 @@
 ## Sources
 
 + https://www.tate.org.uk/art/art-terms/s/situationist-international
++ https://beautifultrouble.org/tactic/detournementculture-jamming/
 + https://www.slideshare.net/daronsohn/situationism
 + https://theanarchistlibrary.org/library/jan-d-matthews-an-introduction-to-the-situationists
