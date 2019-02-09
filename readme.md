@@ -70,7 +70,7 @@ Each week, a student or group of students will present an assigned text and lead
 
 It is imperative that all students come to class having done the readings and thought about them in a critical manner. The students that are not leading the discussions for the week will be responsible for the following:
 
-+ Submitting a short written response to each reading via Blackboard
++ Submitting a short written response (150-300 words) to each reading via Blackboard
 + Coming to class with questions and/or perspectives that you would like to discuss
 + Presenting these questions and perspectives in class
 
