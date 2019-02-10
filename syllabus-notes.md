@@ -95,17 +95,6 @@ object to the class by reporting on their findings. Such as, a Holzer piece, etc
 + Trevor Paglen?
 + Avram Finkelstein?
 
-# Texts
-
-+ Strike Art
-+ No Logo
-+ Hito Steyerl - Duty Free Art (chapter in book of the same name)
-+ [Beautiful Trouble](https://monoskop.org/images/6/67/Boyd_Andrew_ed_Beautiful_Trouble_A_Toolbox_for_Revolution.pdf)
-+ Culture Jamming
-+ Hacker Manifesto
-+ [Martha Rosler - Culture Class: Art, Creativity, Urbanism, Part I](https://www.e-flux.com/journal/21/67676/culture-class-art-creativity-urbanism-part-i/)
-+ [The Coming Insurrection](https://tarnac9.noblogs.org/gallery/5188/insurrection_english.pdf)
-
 
 ### Unsorted
 
@@ -117,7 +106,6 @@ Marco says easy to draw a line from Zizek's essay on overidentification to the Y
 		+ "Take the system more seriously than it takes itself"
 Anonymous + Luddities, Deseriis reading
 Botnets
-[Hacktivism: On the Use of Botnets in Cyberattacks](https://journals.sagepub.com/doi/abs/10.1177/0263276416667198)
 
 Occupy
 + Peoples Mic
@@ -136,21 +124,3 @@ Negativland
 
 Eva and Franco Mattes
 + [Stolen Pieces](https://0100101110101101.org/stolen-pieces/) -- Artists break off pieces of famous artworks
-
-
-
-# Claire Reading list
-
-https://www.nytimes.com/2019/01/31/opinion/higher-education-hampshire-college-.html
-
-[living as form - nato thompson](https://brooklynrail.org/2012/05/art_books/living-as-form-ed-nato-thompson-creative-time-and-mit-press-2012)
-
-[Easterling - Extrastatescraft](https://cpb-us-w2.wpmucdn.com/portfolio.newschool.edu/dist/3/9174/files/2015/12/Easterling_Extrastatecraft-wmfdo7.pdf)
-
-[Claire Bishop - Artificial Hells](https://selforganizedseminar.files.wordpress.com/2011/08/bishop-claire-artificial-hells-participatory-art-and-politics-spectatorship.pdf)
-
-[Marc Auge - Non Places](https://edisciplinas.usp.br/pluginfile.php/122106/mod_resource/content/1/Marc%20Aug%C3%A9%20Non-Places-%20An%20Introduction%20to%20Supermodernity%20%202009.pdf)
-
-[Jeffrey Hou - Insurgent Public Space](https://societyandspace.org/2013/01/04/insurgent-public-space-guerrilla-urbanism-and-the-remaking-of-contemporary-cities-by-jeffrey-hou-ed-reviewed-by-ioannis-chorianopoulos/)
-
-[Jane Blocker - Seeing Witness](https://www.upress.umn.edu/book-division/books/seeing-witness)
