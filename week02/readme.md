@@ -8,9 +8,6 @@ Join [class Slack channel](https://join.slack.com/t/oberlin-art-tech/shared_invi
 + [Psychogeography - Introduction](../texts/Psychogeography-Introduction.pdf) - Ko
 + [Situationist Lexicon](terms.md)
 
-+ Negativland
-  + [Interview 1](https://www.youtube.com/watch?v=2u9trKCBtAw)
-  + [Interview 2](https://www.youtube.com/watch?v=XFWeclhFoig)
 
 ## Screen
 
@@ -19,4 +16,10 @@ Join [class Slack channel](https://join.slack.com/t/oberlin-art-tech/shared_invi
 
 # Wednesday
 
-..
++ Negativland
+  + [Interview 1](https://www.youtube.com/watch?v=2u9trKCBtAw)
+  + [Interview 2](https://www.youtube.com/watch?v=XFWeclhFoig)
+
++ Discuss dérives
+
++ Lab
