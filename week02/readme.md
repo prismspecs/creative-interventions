@@ -1,5 +1,7 @@
 # Monday
 
+Join [class Slack channel](https://join.slack.com/t/oberlin-art-tech/shared_invite/enQtNTQ3MTA5NzEyMjcyLTY3YmJhM2I1NzRlNjg1MDUwYzFiMjkzZjE2ZDE3NGYzMmY3ZTI5YTJhODJmMzViNmQzN2NkNTY4NzIxOTc4NzM) - share leftist memes on #intervention
+
 ## Discuss
 
 + [Martha Rosler - Culture Class: Art, Creativity, Urbanism, Part I](https://www.e-flux.com/journal/21/67676/culture-class-art-creativity-urbanism-part-i/) - Mikaela/Haley
