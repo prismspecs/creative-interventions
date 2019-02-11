@@ -4,11 +4,11 @@ lifted from [the Anarchist library](https://theanarchistlibrary.org/library/jan-
 
 The SI’s political theory was influenced by Marx, Hegel, Lukacs, the French group Socialism or Barbarism (from which they got their councilism and critique of the Soviet Union), the humanist Marxist Henri Lefebvre (who formulated a critique of everyday life), and to a lesser extent people as diverse as Wilhelm Reich and Nietzsche. The SI always used what they found relevant in various writers and discarded the rest. At various times they denounced people like Lukacs, Henri Lefebvre, and Sartre quite strongly. The SI was always quite convincing in their denunciations of various leftist academics or artists and their fashionable ideas.
 
-I am now going to present some of the SI’s key theoretical concepts:
-
 ## 1. Recuperation and Detournement
 
 Recuperation is the channeling of social revolt in a way that perpetuates capitalism. To understand recuperation is to understand how working class struggles are kept under control and how working class demands become integrated into capital’s strategy. To understand recuperation is to understand that it is a central function of the media and of modern unions. Punk rock culture being sold in boutique stores is an instance of recuperation. Of course, it is the inability of punk rock culture to effectively challenge anything that opens it up so completely to recuperation. The left, as capital’s loyal opposition, is the embodiment of political recuperation — or keeping things within the realm of politics and representation. Detournement is something like the opposite of recuperation. It is the appropriation of images or ideas and the changing of their intended meaning in a way that challenges the dominant culture. A good example of this is the detourned comics that the situationists popularized, in which revolutionary ideas and slogans are substituted for what the comic characters are supposed to be saying.
+
+![meme about capitalist recuperation, in which the character 'capitalism' see's 'anger against capitalism' and asks 'is this a commodity?'](images/isthisacommodity.jpg)
 
 ## 2. Alienation and Separations
 
