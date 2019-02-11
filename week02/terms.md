@@ -20,13 +20,24 @@ Unlike Marxist-Leninists, the Situationists made full use of Marx's theory of al
 
 The SI also characterized spectacular society (more on the spectacle later) as a system of separations. As the situationist-influenced Against Sleep And Nightmare writes, “As the market expands, it needs to sell more commodities. To sell the commodities, a capitalist has to make people not just want the commodity but need the commodity. By fragmenting more areas of previously undifferentiated social life into quantifiable units, the capitalists forced atomized workers to meet their needs externally rather than through community-direct non-market relations.” As the economy as a separate sphere of life expands to encompass more and more of our activities, our separation from each other and from our own desires and powers becomes more acute. The SI had a theoretical basis for understanding the alienated condition of modern man as depicted in art and literature. Only the destruction of capitalism can end the domination of the economy over all of life.
 
+[4-minute explainer video: What is Alienation?](https://www.youtube.com/watch?v=PZ4VzhIuKCQ)
+
 ## 3. Specialization and Militantism
 
 As Marx pointed out, class society depends on the division of labor inaugurated through the division of mental and physical labor. Capitalism further expands this division of labor by creating the need for the management and control of ever greater domains of social life. Capitalism produces a whole array of specialists (psychologists, professors, scientists, etc.) who work to perpetuate capitalism. We usually don't choose to be dependent on specialists, it is just the way the system is set up. A good example of this is the rule of specialists called politicians who represent people whether or not they wish to be represented. The situationists understood how this feature of capitalism is mirrored by its leftist opposition. The leftist role of militant fits perfectly within the world of separations that the situationists hated: the militant is a devout believer in a cause to which others must be converted, and in the service of this cause the militant feels obliged to speak for “the people” and say what is good for “the people.” The leftist militant is an aspiring bureaucrat. The SI understood the critique of specialization to be fundamentally a critique of class society and an affirmation of communism. “In a communist society there are no painters but at most people who engage in painting among other activities,” wrote Marx.
 
++ As an addendum to this, it's also crucial to consider experiments like the dérive as a move away from artistic specialization--that creating "art" is separate from other acts.
+>> As a start they aimed to go beyond artistic specialization — art as a separate activity — and delve beneath that whole movement of the breaking-up of language and dissolution of forms that had constituted modern art at its most authentic. It was decided that the first field of their future creativeness would embrace experiments in behavior, the construction of complete settings, moments of life freely created.
+- Michèle Bernstein, The Times Literary Supplement (September 1964)
+
++ For further reading on the subject, check out [Michel de Certeau's The Practice of Everyday Life](https://en.wikipedia.org/wiki/The_Practice_of_Everyday_Life)
+
 ## 4. Subjectivity
 
 In contrast to the objectivist dialectics of Marxism-Leninism and the cold objectivity of corporate capitalism, the SI emphasized the subjectivity of revolt, the proletariat's capacity be the conscious subjects of history and not the passive objects of bureaucratic design. Despite the objective build-up of great amounts of wealth and the ability of workers in the industrialized world to buy various new commodities, there is an increasing subjective poverty of everyday life. The SI railed against boredom and the banality of the spectacular commodity society. They spoke of the subjective feelings of oppression and passivity that characterized everyday life in capitalist society, instead of only focusing on economic struggles or political conflicts. Vaneigem epitomized the SI's tendency to focus on the subjective, on desire and its frustration.
+
+>> Boredom is counter-revolutionary. Always.
+-Guy Debord
 
 ## 5. Survival
 

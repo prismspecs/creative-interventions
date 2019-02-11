@@ -241,6 +241,7 @@ Monday
   + Strike Art Reading
   + Rolling Jubilee
   + Debt Resistors Manual
+	+ [Micah White: ‘Occupy Wall Street was a constructive failure’](https://www.theglobeandmail.com/opinion/munk-debates/micah-white-occupy-wall-street-was-a-constructive-failure/article29294222/)
 + Screen
   + The Take?
   + [Videograms of a Revolution by Harun Faroki and Andrei Ujica]()?
