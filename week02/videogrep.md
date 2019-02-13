@@ -1,12 +1,13 @@
 ## Videogrep Lab
 
-Videogrep is a project by artist Sam Lavigne. It allows you to make 'supercuts' of videos (that have subtitle files) by search terms. For example, if you wanted to create a supercut of a CNN video that combines all of the times they say the word "government" you could do that.
+Videogrep is a project by artist [Sam Lavigne](http://lav.io/). It allows you to make 'supercuts' of videos (that have subtitle files) by search terms. For example, if you wanted to create a supercut of a CNN video that combines all of the times they say the word "government" you could do that.
 
 Here are some examples of videos made by Sam
 
-+
-+
-+
++ https://www.youtube.com/watch?v=D7pymdCU5NQ
++ https://vimeo.com/124950367
++ https://www.youtube.com/watch?v=PQMzOUeprlk
++ And a [Twitter bot "CSPAN5"](https://twitter.com/cspanfive) that makes these automatically
 
 Sam is also an educator, and has graciously open sourced his classroom materials. Much of what I write here has been adapted from [his New School class syllabus](https://github.com/antiboredom/automating-video-lang/blob/master/videogrep.md)
 
@@ -74,6 +75,11 @@ videogrep --input video.mp4 --use-vtt --search "president" --output president.mp
 videogrep --input video.mp4 --use-vtt --search "president" --search-type "word" --output president.mp4
 ```
 
+7. ... try multiple words
+
+### Further Experimentation
+
+Sam has an in-depth guide to using this in more advanced ways which [you can find here](https://github.com/antiboredom/automating-video-lang/blob/master/videogrep.md)
 
 ------ OLD SHIT ------
 
