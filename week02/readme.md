@@ -23,3 +23,4 @@ Join [class Slack channel](https://join.slack.com/t/oberlin-art-tech/shared_invi
 + Discuss dérives
 
 + Lab
+  + [videogrep](videogrep.md)
