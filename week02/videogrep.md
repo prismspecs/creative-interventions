@@ -47,6 +47,11 @@ sudo pip3 install requests
 brew install youtube-dl
 ```
 
+7. Install ffmpeg, some video software
+```
+brew install ffmpeg
+```
+
 ### Example Useage
 
 1. You'll want to change directory ("cd") into the Documents folder on your computer, so we know where the files end up
