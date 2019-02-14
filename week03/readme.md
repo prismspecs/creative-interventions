@@ -2,7 +2,7 @@
 
 ## Discuss
 
-+ [Naomi Klein - No Logo ch5: Patriarchy Gets Funky](..texts/klein_patriarchy-gets-funky.pdf)
++ [Naomi Klein - No Logo ch5: Patriarchy Gets Funky](../texts/klein_patriarchy-gets-funky.pdf)
 + [Marilyn DeLaure and Moritz Fink - Culture Jamming ch1](../texts/DeLaure&Fink_CultureJamming_intro.pdf)
 
 + Negativland
