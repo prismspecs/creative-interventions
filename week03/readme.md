@@ -2,7 +2,7 @@
 
 ## Discuss
 
-+ [Naomi Klein - No Logo ch5: Patriarchy Gets Funky](..texts/klein_patriarchy-gets-funky.pdf) - Abby
++ [Naomi Klein - No Logo ch5: Patriarchy Gets Funky](../texts/klein_patriarchy-gets-funky.pdf) - Abby
 + [Marilyn DeLaure and Moritz Fink - Culture Jamming ch1](../texts/DeLaure&Fink_CultureJamming_intro.pdf) - Lily B & Leah
 
 + Casually Pepper Spraying Everything Cop *CW: police pepper spraying nonviolent students*
@@ -15,6 +15,6 @@
 
 + Billboard Liberation Front
 	+ [Manifesto](http://www.billboardliberation.com/manifesto.html)
-	
+
 + Jordan Seiler
 	+ [Public Access](https://slate.com/human-interest/2016/02/jordan-seilers-public-ad-campaign-gives-you-access-to-the-ad-displays-along-your-commute-with-his-home-made-keys.html)
