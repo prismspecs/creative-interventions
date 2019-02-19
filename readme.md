@@ -167,7 +167,7 @@ Wednesday
 DISOBEDIENT OBJECTS / PROTEST AND ART
 
 Monday
-+ [BUFU](http://www.bufubyusforus.com/us-2017/)?
++ Guest Lecturer Shobun Baile
 + Discuss
 	+ [Graeber - On the Phenomenology of Giant Puppets]()
 	+ Disobedient Objects
@@ -177,7 +177,7 @@ Wednesday
 
 ### Week 06 (3/11 && 3/13)
 
-RUSSIAN AVANT-GARDE
+RUSSIAN/AVANT-GARDE
 
 Monday
 + Discuss
@@ -186,6 +186,7 @@ Monday
   + [Oleg Kulik](http://www.artnet.com/artists/oleg-kulik/)
   + VOINA
   + Pussy Riot
+	+ [Tania Bruguera](https://www.youtube.com/watch?v=4raYhes7OwI)
   + [Eva and Franco Mattes - Stolen Pieces](https://0100101110101101.org/stolen-pieces/) -- Artists break off pieces of famous artworks
   + The Square * Content Warning
 
@@ -255,6 +256,7 @@ THE NET
 
 Monday
 + Discuss
+	+ [Updating to Remain the Same - Wendy Chun, ch 1]()
   + Laural Ptak - Wages for Facebook
   + Sam Lavigne
   + Rafia - #PayBlackTime
