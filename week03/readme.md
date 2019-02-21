@@ -22,7 +22,7 @@
 # Wednesday
 
 + Lab
-	+ [Videogrep](../week2/videogrep.md)
+	+ [Videogrep](../week02/videogrep.md)
 
 + Project 2: Videojam
 	+ Using Videogrep, remix video content using search terms to selectively extract video and make your own "supercut." This can be funny, earnest, and use news sources, mass media TV or cinema, etc. The goal is to reveal something via subtraction.
