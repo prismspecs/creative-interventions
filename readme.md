@@ -86,15 +86,19 @@ This project is lifted from a quote in Malcolm Coverly’s book Psychogeography.
 
 —Robert MacFarlane, A Road of One’s Own.
 
-2. Unnoticed
+2. Videojam
+
+Using Videogrep, remix video content using search terms to selectively extract video and make your own "supercut." This can be funny, earnest, and use news sources, mass media TV or cinema, etc. The goal is to reveal something via subtraction.
+
+3. Unnoticed
 
 Introduce something into public space that, while possessing meaning, is meant to go unnoticed. Document the creation of the object as well as it in public space. You will be required to show this documentation during a group discussion. In developing this work I encourage you to think about spaces, ideas, and objects that are intended to be invisible.
 
-3. Visual Reclamation
+4. Visual Reclamation
 
 Using projection mapping or another visual medium, design and produce an intervention on public visual space.
 
-4. Final Project
+5. Final Project
 
 ## Disclaimer
 

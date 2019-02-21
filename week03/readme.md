@@ -18,3 +18,17 @@
 
 + Jordan Seiler
 	+ [Public Access](https://slate.com/human-interest/2016/02/jordan-seilers-public-ad-campaign-gives-you-access-to-the-ad-displays-along-your-commute-with-his-home-made-keys.html)
+
+# Wednesday
+
++ Lab
+	+ [Videogrep](../week2/videogrep.md)
+
++ Project 2: Videojam
+	+ Using Videogrep, remix video content using search terms to selectively extract video and make your own "supercut." This can be funny, earnest, and use news sources, mass media TV or cinema, etc. The goal is to reveal something via subtraction.
+	+ Due next Wednesday
+
+## Readings for Next Week
+
++ [Slavoj Zizek - Why are Laibach and NSK not Fascists? & The IRWIN Group...](../texts/nsk.pdf)
++ [Sarah Kanouse - Cooing Over the Golden Phallus](../texts/Cooing_Over_the_Golden_Phallus.pdf)
