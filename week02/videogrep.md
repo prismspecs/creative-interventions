@@ -107,6 +107,11 @@ videogrep --input *.mp4 --use-vtt --search "question" --search-type "word" --out
 videogrep --input video.mp4 --use-vtt --search "look|not" --search-type "word" --output looknot.mp4 -p 500
 ```
 
++ Searching for the word "men" will also return "women" by default. If you want to truly isolate words, you can use the ^ symbol and $ symbols. ^ means that the word must start with what comes next, while $ means the word must end with what came before. Therefore for single words, like "men" you can use ^men$ so that it doesn't pick up "women" or "mental"
+```
+videogrep --input video.mp4 --use-vtt --search "^men$" --search-type "word" --output looknot.mp4
+```
+
 + If the video is downloading as an mkv file or something other than mp4, you can tell youtube-dl to grab the file as mp4
 ```
 youtube-dl https://www.youtube.com/watch?v=CWck2xoZkJM -f 22 --write-auto-sub --recode-video
