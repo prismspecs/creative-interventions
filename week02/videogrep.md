@@ -80,8 +80,27 @@ videogrep --input video.mp4 --use-vtt --search "president" --output president.mp
 videogrep --input video.mp4 --use-vtt --search "president" --search-type "word" --output president.mp4
 ```
 
-7. ... try multiple words
+7. Extract multiple words. Notice that there is no space between words
+```
+videogrep --input video.mp4 --use-vtt --search "look|not" --search-type "word" --output looknot.mp4
+```
 
 ### Further Experimentation
 
 Sam has an in-depth guide to using this in more advanced ways which [you can find here](https://github.com/antiboredom/automating-video-lang/blob/master/videogrep.md)
+
+[The official videogrep documentation is here](https://github.com/antiboredom/videogrep)
+
+Here are some common commands for your reference:
+
++ Download and videogrep a playlist of videos. Notice the asterisk, which means use ANY and ALL mp4s in the current working folder
+```
+youtube-dl https://www.youtube.com/playlist?list=PLRJNAhZxtqH_3Nl-7n1vhgTUHyFSuQ0nI -f 22 --write-auto-sub
+
+videogrep --input *.mp4 --use-vtt --search "question" --search-type "word" --output questions.mp4
+```
+
++ Add a buffer to the beginning and end of words or phrases. The -p command works in milliseconds, so here we add half a second
+```
+videogrep --input video.mp4 --use-vtt --search "look|not" --search-type "word" --output looknot.mp4 -p 500
+```
