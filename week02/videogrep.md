@@ -91,6 +91,8 @@ Sam has an in-depth guide to using this in more advanced ways which [you can fin
 
 [The official videogrep documentation is here](https://github.com/antiboredom/videogrep)
 
+[The documentation for youtube-dl is here](https://github.com/rg3/youtube-dl/blob/master/README.md) where you can find info about what the -f 22 command does, etc.
+
 Here are some common commands for your reference:
 
 + Download and videogrep a playlist of videos. Notice the asterisk, which means use ANY and ALL mp4s in the current working folder
@@ -104,3 +106,10 @@ videogrep --input *.mp4 --use-vtt --search "question" --search-type "word" --out
 ```
 videogrep --input video.mp4 --use-vtt --search "look|not" --search-type "word" --output looknot.mp4 -p 500
 ```
+
++ If the video is downloading as an mkv file or something other than mp4, you can tell youtube-dl to grab the file as mp4
+```
+youtube-dl https://www.youtube.com/watch?v=CWck2xoZkJM -f 22 --write-auto-sub --recode-video
+```
+
+### Verified "Advanced Subtitles" links
