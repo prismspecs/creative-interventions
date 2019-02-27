@@ -10,7 +10,26 @@
 ## Wednesday
 
 + Show videojam projects
-+ Semester in review
+	+ Adina
+		+ https://www.youtube.com/watch?v=TIStMb1G6_k
+		+ https://www.youtube.com/watch?v=8KuWy78Qynk
+		+ https://www.youtube.com/watch?v=KXReit3Q3jE
+	+ Mikaela
+		+ https://youtu.be/xHLQFrI35Ug
+		+ https://www.youtube.com/watch?v=8xBrGUAfhes
+		+ https://www.youtube.com/watch?v=dOTYcO3TLfI
+	+ Kai
+		+ https://youtu.be/-wzyf4-FKZs
+	+ Kierra
+		+ https://youtu.be/qYfRd1Oa-38
+	+ Micaela
+		+ https://youtu.be/xFrQCCaUr2Q
+	+ Lily Lu-Lerner
+		+ https://www.youtube.com/watch?v=IszWP1Tykcg
+	+ Leah Y
+		+ https://youtu.be/BQ7vflDiBJs
+		+ https://youtu.be/6J0WhMz-Eq8
++ Review some big ideas
 + Introduce Project 3: Unnoticed
 	+ Introduce something into public space that, while possessing meaning, is meant to go unnoticed. Document the creation of the object as well as it in public space. You will be required to show this documentation during a group discussion. In developing this work I encourage you to think about spaces, ideas, and objects that are intended to be invisible.
 
