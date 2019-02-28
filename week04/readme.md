@@ -54,3 +54,4 @@
 ## Readings for Next Week
 
 + [Graeber - On the Phenomenology of Giant Puppets](../texts/graeber_puppets.pdf)
++ [99 Percent Invisible Podcast - Chingdogu by Vivian Le](https://99percentinvisible.org/episode/mini-stories-volume-5/2/)
