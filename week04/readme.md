@@ -1,3 +1,7 @@
+# Announcements
+
++ [Art + Feminism Wikipedia Edit a Thon this Saturday!](https://www.oberlin.edu/events/artfeminism_wikipedia_edit-thon_7483)
+
 # Monday
 
 + Screen Yes Men Fix the World (2008)
@@ -24,6 +28,7 @@
 		+ https://youtu.be/qYfRd1Oa-38
 	+ Micaela
 		+ https://youtu.be/xFrQCCaUr2Q
+		+ https://youtu.be/ggvxDSKFZD8
 	+ Lily Lu-Lerner
 		+ https://www.youtube.com/watch?v=IszWP1Tykcg
 	+ Leah Y
@@ -36,6 +41,7 @@
 		+ https://youtu.be/DjDUQjNscuk
 	+ Abby
 		+ https://youtu.be/CQmGyaHQJyY
+	+
 + Review some big ideas
 + Introduce Project 3: Unnoticed
 	+ Introduce something into public space that, while possessing meaning, is meant to go unnoticed. Document the creation of the object as well as it in public space. You will be required to show this documentation during a group discussion. In developing this work I encourage you to think about spaces, ideas, and objects that are intended to be invisible.
