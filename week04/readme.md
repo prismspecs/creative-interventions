@@ -29,6 +29,9 @@
 	+ Leah Y
 		+ https://youtu.be/BQ7vflDiBJs
 		+ https://youtu.be/6J0WhMz-Eq8
+	+ Natty
+		+ https://youtu.be/wwQYNvxx2Lk
+		+ https://youtu.be/O2FA9XfWYIE
 + Review some big ideas
 + Introduce Project 3: Unnoticed
 	+ Introduce something into public space that, while possessing meaning, is meant to go unnoticed. Document the creation of the object as well as it in public space. You will be required to show this documentation during a group discussion. In developing this work I encourage you to think about spaces, ideas, and objects that are intended to be invisible.
