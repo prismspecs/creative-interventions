@@ -51,6 +51,20 @@
 + Introduce Project 3: Unnoticed
 	+ Introduce something into public space that, while possessing meaning, is meant to go unnoticed. Document the creation of the object as well as it in public space. You will be required to show this documentation during a group discussion. In developing this work I encourage you to think about spaces, ideas, and objects that are intended to be invisible.
 
+## Big Ideas
+
+We spent some time thinking through some questions/concepts related to the course. Here are some that we felt were important to the conversation.
+
++ What is the most valuable thing you can be doing? What is important or helpful? Are pranks useful?
+
++ Queer resistance movements are difficult to recuperate because it's difficult to turn queer sexuality into a commodity from a market perspective. Also blood, sadomasochism, etc. are less recuperable
+
++ Rather than strive for some permanent non-recuperability, ask what can art do NOW for people NOW?
+
++ How recuperated were the Situationists?
+
++ How do various forms of privilege intersect with the forms of activism and art we've discussed so far?
+
 ## Readings for Next Week
 
 + [Graeber - On the Phenomenology of Giant Puppets](../texts/graeber_puppets.pdf)
