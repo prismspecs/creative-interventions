@@ -20,6 +20,7 @@ The organization and control of space is a major part of contemporary human infr
 + [Women on Waves - Abortion Drone](https://www.womenonwaves.org/en/page/6402/abortion-drones)
 + [Ricardo Miranda - On Transmitting Ideology](http://ambriente.com/transmitting_ideology/)
 + [Institute for Applied Autonomy - Contestational Robotics](https://vimeo.com/6070459)
++ [Transborder Immigrant Tool](https://anthology.rhizome.org/transborder-immigrant-tool)
 
 ## Readings for Next Week
 
