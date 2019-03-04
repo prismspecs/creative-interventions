@@ -12,6 +12,15 @@ Shobun Baile will discuss his research and art practice as they relate to spatia
 
 The organization and control of space is a major part of contemporary human infrastructures. With every apartment building, prison, and nation-state come the requirements for planning and problem solving, for dealing with questions of scalability, efficiency, ethics, and capital. Through this lens I will discuss several projects that explore when and why plans become form, and the role that these moments of formalization play in the embedding of power and ideology into material. I will also discuss my working process, which deals with engaging voices, institutions, tools, and protocols involved in the realization of buildings, cities, and nation-states.
 
+## Disobedient Objects
+
++ [Protest Inflatables](https://www.vam.ac.uk/blog/disobedient-objects/tools-for-action-interview-with-artur-van-balen)
+	+ [in Berlin](https://vimeo.com/82748547#at=3)
+  + [see more on Tools for Action](http://www.toolsforaction.net/)
++ [Women on Waves - Abortion Drone](https://www.womenonwaves.org/en/page/6402/abortion-drones)
++ [Ricardo Miranda - On Transmitting Ideology](http://ambriente.com/transmitting_ideology/)
++ [Institute for Applied Autonomy - Contestational Robotics](https://vimeo.com/6070459)
+
 ## Readings for Next Week
 
 + [Body Politics](https://www.1843magazine.com/features/body-politics) - The Russian Actionists
