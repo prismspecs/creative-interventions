@@ -187,7 +187,6 @@ RUSSIAN/AVANT-GARDE
 
 Monday
 + Discuss
-  + Claire Bishop - Artificial Hells
   + Alexander Brener
   + [Oleg Kulik](http://www.artnet.com/artists/oleg-kulik/)
   + VOINA
