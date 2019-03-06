@@ -14,6 +14,7 @@ The organization and control of space is a major part of contemporary human infr
 
 ## Disobedient Objects
 
++ Discuss [Graeber - On the Phenomenology of Giant Puppets](../texts/graeber_puppets.pdf)
 + [Protest Inflatables](https://www.vam.ac.uk/blog/disobedient-objects/tools-for-action-interview-with-artur-van-balen)
 	+ [in Berlin](https://vimeo.com/82748547#at=3)
   + [see more on Tools for Action](http://www.toolsforaction.net/)

@@ -121,7 +121,7 @@ Wednesday
   + Paris, 68
     + [Short Documentary](https://www.youtube.com/watch?v=BjyKJQ-oD5I)
     + [Situationist Posters](https://libcom.org/gallery/paris-68-posters)
-  + [Theory of the Derive]()
+  + [Theory of the Derive](https://www.cddc.vt.edu/sionline/si/theory.html)
 + Introduce Project 1
 
 ### Week 02 (2/11 && 2/13)
@@ -131,7 +131,7 @@ SITUATIONISTISM -> CULTURE JAMMING
 Monday
 + Discuss
   + [Martha Rosler - Culture Class: Art, Creativity, Urbanism, Part I](https://www.e-flux.com/journal/21/67676/culture-class-art-creativity-urbanism-part-i/)
-	+ [Psychogeography - Introduction]()
+	+ [Psychogeography - Introduction](../texts/Psychogeography-Introduction.pdf)
 + Screen [Can Ideology Break Bricks?](https://oberlin.kanopy.com/video/can-dialectics-break-bricks)
   + Alternatively, [color version](https://www.youtube.com/watch?v=6y9Xdf6qa0Y&t=1347s)
 + Negativland
@@ -152,7 +152,7 @@ Monday
     + [Bonus: No Logo Documentary](https://oberlin.kanopy.com/video/no-logo)
 
 Wednesday
-+ Screen The Take?
++ Lab
 
 ### Week 04 (2/25 && 2/27)
 
@@ -175,7 +175,7 @@ DISOBEDIENT OBJECTS / PROTEST AND ART
 Monday
 + Guest Lecturer Shobun Baile
 + Discuss
-	+ [Graeber - On the Phenomenology of Giant Puppets]()
+	+ [Graeber - On the Phenomenology of Giant Puppets](../texts/graeber_puppets.pdf)
 	+ Disobedient Objects
 
 Wednesday
@@ -233,7 +233,7 @@ HACKTIVISM
 Monday
 + Discuss
   + Anonymous + Luddities - Deseriis reading
-  + [McKenzie Wark - Hacker Manifesto]()
+  + [McKenzie Wark - Hacker Manifesto](http://subsol.c3.hu/subsol_2/contributors0/warktext.html)
 
 Wednesday
 + Lab
@@ -249,8 +249,7 @@ Monday
   + Debt Resistors Manual
 	+ [Micah White: ‘Occupy Wall Street was a constructive failure’](https://www.theglobeandmail.com/opinion/munk-debates/micah-white-occupy-wall-street-was-a-constructive-failure/article29294222/)
 + Screen
-  + The Take?
-  + [Videograms of a Revolution by Harun Faroki and Andrei Ujica]()?
+  + The Take or [Videograms of a Revolution by Harun Faroki and Andrei Ujica](https://www.harunfarocki.de/films/1990s/1992/videograms-of-a-revolution.html)
 
 Wednesday
 + Lab
