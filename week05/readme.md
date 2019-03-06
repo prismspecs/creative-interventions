@@ -11,3 +11,9 @@ Shobun Baile is an artist working in video, sound, writing, and installation. Hi
 Shobun Baile will discuss his research and art practice as they relate to spatial technologies.
 
 The organization and control of space is a major part of contemporary human infrastructures. With every apartment building, prison, and nation-state come the requirements for planning and problem solving, for dealing with questions of scalability, efficiency, ethics, and capital. Through this lens I will discuss several projects that explore when and why plans become form, and the role that these moments of formalization play in the embedding of power and ideology into material. I will also discuss my working process, which deals with engaging voices, institutions, tools, and protocols involved in the realization of buildings, cities, and nation-states.
+
+## Resistance as Technology
+
+[Tools for Action](http://www.toolsforaction.net/)
++ [Protest Inflatables](https://www.vam.ac.uk/blog/disobedient-objects/tools-for-action-interview-with-artur-van-balen)
+	+ [in Berlin](https://vimeo.com/82748547#at=3)
