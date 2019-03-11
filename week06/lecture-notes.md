@@ -2,14 +2,28 @@
 
 + Context
   + Soviet art, Soviet socialism
-  + American abstract expressionism
+		+ On December 25, 1991, the Soviet hammer and sickle flag lowered for the last time over the Kremlin, thereafter replaced by the Russian tricolor. Earlier in the day, Mikhail Gorbachev resigned his post as president of the Soviet Union, leaving Boris Yeltsin as president of the newly independent Russian state.
+
+	+ American abstract expressionism
     + Pollock and the CIA
+			+ From The Indepdent:
+				+ The Central Intelligence Agency used American modern art - including the works of such artists as Jackson Pollock, Robert Motherwell, Willem de Kooning and Mark Rothko - as a weapon in the Cold War. In the manner of a Renaissance prince - except that it acted secretly - the CIA fostered and promoted American Abstract Expressionist painting around the world for more than 20 years.
+
+				+ The connection is improbable. This was a period, in the 1950s and 1960s, when the great majority of Americans disliked or even despised modern art - President Truman summed up the popular view when he said: "If that's art, then I'm a Hottentot." As for the artists themselves, many were ex- communists barely acceptable in the America of the McCarthyite era, and certainly not the sort of people normally likely to receive US government backing.
+
+				+ Why did the CIA support them? Because in the propaganda war with the Soviet Union, this new artistic movement could be held up as proof of the creativity, the intellectual freedom, and the cultural power of the US. Russian art, strapped into the communist ideological straitjacket, could not compete.
       + https://www.independent.co.uk/news/world/modern-art-was-cia-weapon-1578808.html
+
   + America didn't become super relevant in the world stage of culture until after the first World War, and didn't become dominant in this regard until after the second world war
+
   + The history of Western art, of course, was centered in Europe. And the center of abstract expressionism, the newest and most important art movement of the 1900s was centered in Russia
+
   + The reception of American art in opposition to that of the USSR was thought to be so important that the CIA made it a guiding principal when it was founded in 1947
+
   + Once the Soviet Union dissolved the artists there went from being at the center of cultural production to irrelevant, as the market became the deciding factor in the relevance of culture in place of art historians or alternative economic models (such as with the USSR)
+
   + This leads to artists coming out of a historic avant-garde tradition in drastically shifting cultural paradigms, challenging the supremacy of an emerging market-driven art
+
 + Art Vandalism case studies
   + Oleg Kulik
     + From wiki: For his performances, Kulik creates a symbolic set of parameters to define the environment which he will inhabit in the persona of a dog, and then devises a series of actions that unfold as a response. The artist describes the dialogue within his practice as "a conscious falling out of the human horizon" which places him on hands and knees. His intention is to describe what he sees as a crisis of contemporary culture, a result of an overly refined cultural language which creates barriers between individuals. Thus, he simplifies his performance language to half of the basic emotional vocabulary of a domestic animal.
@@ -30,7 +44,7 @@
     + Blue Bucket via Creative Time http://creativetime.org/summit/2011/09/23/voina
       + Nikolayev—who was nicknamed “Crazy Lenya” by his fellow activists—is remembered for his brave actions during the group’s 2010 Blue Bucket protests, in which he sprinted across a busy street wearing a blue bucket atop his head. The bucket was a symbol of the blue flashing beacons Russian government officials often place atop their vehicles in order to cut through traffic, often causing accidents and killing pedestrians along the way.
 
-      + According to atribute to Nikolayev posted on Voina’s blog, he “walked in the traffic lanes on Moscow’s busiest streets.  He blindly moved against traffic, ignoring the speed limits and obstructing public transportation.” During one protest, he climbed on top of a government official’s car. The car’s driver got out and knocked the bucket off of his head—only to reveal a second blue bucket underneath.
+      + According to a tribute to Nikolayev posted on Voina’s blog, he “walked in the traffic lanes on Moscow’s busiest streets.  He blindly moved against traffic, ignoring the speed limits and obstructing public transportation.” During one protest, he climbed on top of a government official’s car. The car’s driver got out and knocked the bucket off of his head—only to reveal a second blue bucket underneath.
   + Banksy
     + Shreds his painting that had just sold at Sothebys for 1 million pounds, quotes Picasso "the urge to destroy is also a creative urge"
       + https://www.youtube.com/watch?time_continue=60&v=ynHl7bU_aPU
@@ -73,3 +87,8 @@
 
 ## Questions
 + What or who is being protected against "art vandalism"? The original author of the painting? The current owner, their private property? The autonomous art object itself? The public that supposedly benefits from its imperforate existence?
+
+## Sources
+
++ https://history.state.gov/milestones/1989-1992/collapse-soviet-union
++ https://www.independent.co.uk/news/world/modern-art-was-cia-weapon-1578808.html
