@@ -58,6 +58,7 @@
       + https://www.youtube.com/watch?v=xjO4GMGd7xI
 
   + Brener
+	
     + In 1997, Alexander Brener walked into the Stedelijk Museum of Art in Amsterdam with a concealed can of green spray paint and scrawled a dollar symbol onto Malevich's famous painting Suprematism
     + He was quickly apprehended by guards and exclaimed that it was an act of performance art in dialogue with the original artist
     + The value of the painting dropped from 7.5 to 5 million USD following the act
