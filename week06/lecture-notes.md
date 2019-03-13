@@ -67,6 +67,8 @@
     + Shafrazi
       + In 1977 Tony Shafrazi spray painted "KILL LIES ALL" on Picasso's Guernica and was subsequently arrested. He now owns a successful gallery in New York City in which he buys and sells Picassos
 
+		+ Also worth looking at some other transgressive performance artists such as Cuban artist [Tania Bruguera](https://www.youtube.com/watch?v=4raYhes7OwI)
+
   + How should we intepret Brener's actions?
     + What is "Art Vandalism"?
       + Simple categorizing Brener (and the other artists mentioned) as a vandal, his act merely damaging private property, seems insufficient given the history of art in which similar acts are regarded as culturally important. Banksy, Ai Weiwei, Keith Harring, to name a few examples
