@@ -1,6 +1,7 @@
 # Monday
 
-Special guest lecture via videoconference, Avram Finkelstein
++ Special guest lecture via videoconference, Avram Finkelstein
++ Finish Presenting Project 3
 
 + Discuss
   + [Nato Thompson and Avram Finkelstein in Conversation](http://www.artnews.com/2017/12/19/artnews-accord-nato-thompson-avram-finkelstein-conversation/)

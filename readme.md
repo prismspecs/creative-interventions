@@ -193,7 +193,6 @@ Monday
   + Pussy Riot
 	+ [Tania Bruguera](https://www.youtube.com/watch?v=4raYhes7OwI)
   + [Eva and Franco Mattes - Stolen Pieces](https://0100101110101101.org/stolen-pieces/) -- Artists break off pieces of famous artworks
-  + The Square * Content Warning
 
 Wednesday
 + Lab
@@ -204,7 +203,8 @@ AIDS EPIDEMIC & CREATIVE RESPONSE
 
 Monday
 + Discuss
-  + ACT UP
+	+ [Nato Thompson and Avram Finkelstein in Conversation](http://www.artnews.com/2017/12/19/artnews-accord-nato-thompson-avram-finkelstein-conversation/)
+	+ [Bodies Being-Together: AIDS Activism and the Aesthetics of Community](http://sites.uci.edu/transscripts/files/2014/10/2013_03_07.pdf)
 + Skype with Avram Finkelstein of SILENCE = DEATH
 
 Wednesday
