@@ -17,6 +17,8 @@
 	+ [MUP project examples](http://c-uir.org/mup/)
 	+ [Notable projection mapping examples](https://www.youtube.com/watch?v=10ga6Y1quFk)
 
++ Optional viewing at home: [How to Survive a Plague](https://solarmovies.pl/movie/how-to-survive-a-plague-1080p/watching.html) gives context to what Avram spoke about. If you're unfamiliar with the AIDS epidemic in the States it's essential viewing
+
 ## Readings for next week
 
 + [Josephine Withers - The Guerrilla Girls](../texts/withers_guerrilla-girls.pdf)
