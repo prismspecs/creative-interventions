@@ -9,7 +9,13 @@
 
 # Wednesday
 
-Decided on a date for end of semester exhibition
++ Decide on a date for end of semester exhibition
++ Intro to designing for guerrilla projection
+	+ [The Illuminator guide to content and surfaces](http://theilluminator.org/wp-content/uploads/illuminator_design_guide.pdf)
+	+ [The Illuminator guide to hardware](http://theilluminator.org/wp-content/uploads/projection-tip-sheet.pdf)
+	+ [Ali Momeni's Manual for Urban Projection](http://c-uir.org/download/736/)
+	+ [MUP project examples](http://c-uir.org/mup/)
+	+ [Notable projection mapping examples](https://www.youtube.com/watch?v=10ga6Y1quFk)
 
 ## Readings for next week
 
