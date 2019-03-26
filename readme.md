@@ -220,7 +220,7 @@ Monday
 + Discuss
   + Guerrilla Girls
   + Jenny Holzer
-	+ Krzysztof Wodiczko
+  + Krzysztof Wodiczko
 + Projection Mapping Workshop
 
 Wednesday
