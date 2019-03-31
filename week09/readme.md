@@ -10,6 +10,12 @@
 # Wednesday
 
 + Projection Mapping Workshop
+	+ MadMapper
+	+ Alternatives
+		+ [Resolume](https://resolume.com/)
+		+ [VDMX](https://vidvox.net)
+	+ Free alternatives
+		+ [MapMap](https://mapmapteam.github.io/)
 
 ## Readings for next week
 
