@@ -24,5 +24,5 @@
 
 ## Readings for next week
 
-+ Anonymous + Luddities - Deseriis reading
++ [Marco Deseriis - Luddities](../texts/deseriis-luddite.pdf)
 + [McKenzie Wark - Hacker Manifesto](http://subsol.c3.hu/subsol_2/contributors0/warktext.html)
