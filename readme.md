@@ -224,7 +224,7 @@ Monday
 + Projection Mapping Workshop
 
 Wednesday
-+ Lab
++ Lab: Projection Mapping
 
 ### Week 10 (4/8 && 4/10)
 
@@ -232,48 +232,56 @@ HACKTIVISM
 
 Monday
 + Discuss
-  + Anonymous + Luddities - Deseriis reading
   + [McKenzie Wark - Hacker Manifesto](http://subsol.c3.hu/subsol_2/contributors0/warktext.html)
-
+	+ Discuss projection projects
 Wednesday
-+ Lab
++ Lab: Projection Mapping
 
 ### Week 11 (4/15 && 4/17)
 
 OCCUPY
 
 Monday
-+ Discuss
-  + Strike Art Reading
-  + Rolling Jubilee
-  + Debt Resistors Manual
-	+ [Micah White: ‘Occupy Wall Street was a constructive failure’](https://www.theglobeandmail.com/opinion/munk-debates/micah-white-occupy-wall-street-was-a-constructive-failure/article29294222/)
-+ Screen
-  + The Take or [Videograms of a Revolution by Harun Faroki and Andrei Ujica](https://www.harunfarocki.de/films/1990s/1992/videograms-of-a-revolution.html)
++ Discuss Texts
+	+ [Yates McKee - Occupy Wall Street isn't just producing art work, it's challenging the boundaries of art and activism](https://www.thenation.com/article/arts-occupation/)
+	+ [Martha Schwendener - What Does Occupy Wall Street Mean For Art?](https://www.villagevoice.com/2011/10/19/what-does-occupy-wall-street-mean-for-art/)
++ Discuss Art
+	+ Strike Debt
+		+ Rolling Jubilee
+		+ [Debt Resistors Manual](texts/The-Debt-Resistors-Operations-Manual.pdf) (you don't have to read this for class)
+	+ Occupy
+		+
++ Show projection mapping mini-projects
 
 Wednesday
 + Lab
+
+Thursday - Saturday
++ Illuminator!
 
 ### Week 12 (4/22 && 4/24)
 
 THE NET
 
 Monday
++ Projection spillover
+
+Wednesday
 + Discuss
 	+ [Updating to Remain the Same - Wendy Chun, ch 1]()
   + Laural Ptak - Wages for Facebook
   + Sam Lavigne
   + Rafia - #PayBlackTime
-
-Wednesday
-+ Lab
++ Final Projects
+	+ Discuss options for final projects and the exhibition during Art Walk (May 10th)
 
 ### Week 13 (4/29 && 5/1)
 
 FINAL PROJECT WORKSHOP
 
 Monday
-+ Lab
++ Screen
+  + The Take or [Videograms of a Revolution by Harun Faroki and Andrei Ujica](https://www.harunfarocki.de/films/1990s/1992/videograms-of-a-revolution.html)
 
 Wednesday
 + Lab
