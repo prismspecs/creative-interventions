@@ -250,7 +250,6 @@ Monday
 		+ Rolling Jubilee
 		+ [Debt Resistors Manual](texts/The-Debt-Resistors-Operations-Manual.pdf) (you don't have to read this for class)
 	+ Occupy
-		+
 + Show projection mapping mini-projects
 
 Wednesday
@@ -261,14 +260,11 @@ Thursday - Saturday
 
 ### Week 12 (4/22 && 4/24)
 
-THE NET
-
 Monday
 + Projection spillover
 
 Wednesday
 + Discuss
-	+ [Updating to Remain the Same - Wendy Chun, ch 1]()
   + Laural Ptak - Wages for Facebook
   + Sam Lavigne
   + Rafia - #PayBlackTime
