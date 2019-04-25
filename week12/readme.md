@@ -17,13 +17,14 @@
 # Wednesday
 
 + Brainstorm/discuss final projects
-	+ Come up with 15 Oberlin locations that are only understandable through familiarity
-		+ e.g., "Under Mudd", "Above" Subway, Ottica, etc., that hut in the forest
+	+ 15 activities pertaining to Oberlin~
+		+ Doing taxidermy, playing jazz, Obiegame, #froggerIRL
 	+ 15 interfaces
 		+ e.g., work order stickies, painting the rocks, classifieds
-	+ 15 activities pertaining to Oberlin~
-		+ Taxidermy, jazz, Obiegame, #froggerIRL
-	+ 1 minute, 1 random combination, 20 minutes
+	+ 15 Oberlin locations that are only understandable through familiarity
+		+ e.g., "Under Mudd", "Above" Subway, Ottica, etc., that hut in the forest
+	+ 1 minute, 1 random combination per minute, 20 minutes
+
 + Narrowing parameters - Final projects must:
 	+ Deal with some aspect of Oberlin culture or site specificity
 	+ Include others as participants, whether knowingly or unknowingly
