@@ -277,7 +277,7 @@ FINAL PROJECT WORKSHOP
 
 Monday
 + Screen
-  + The Take or [Videograms of a Revolution by Harun Faroki and Andrei Ujica](https://www.harunfarocki.de/films/1990s/1992/videograms-of-a-revolution.html)
+  + The Watermelon Woman by Cheryl Dunye
 
 Wednesday
 + Lab
